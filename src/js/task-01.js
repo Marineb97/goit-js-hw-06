@@ -9,3 +9,4 @@ const items = document.querySelectorAll('.item');
     console.log(`Category: ${title} 
      Elements: ${itemsLength}`);
 });
+
